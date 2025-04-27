@@ -1,0 +1,7 @@
+New tools I learned:
+
+Strings
+used to find printable characters in files
+ex: strings <file> | less
+
+
